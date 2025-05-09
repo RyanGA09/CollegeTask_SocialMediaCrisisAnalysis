@@ -1,25 +1,25 @@
-# CollegeTask - Social Media Crisis Analysis
+# 📉 College Task - Social Media Crisis Analysis
 
-## Overview
+## 🧾 Overview
 
 This project focuses on analyzing social media crises by performing sentiment analysis on YouTube comments. It leverages text preprocessing, clustering, and sentiment classification to gain insights into public perception.
 
-## Features
+## ✨ Features
 
-- **Data Collection**: Scrapes YouTube comments using YouTube API.
-- **Text Preprocessing**: Tokenization, stopword removal, stemming, and TF-IDF vectorization.
-- **Sentiment Analysis**: Uses TextBlob to classify comments as Positive, Negative, or Neutral.
-- **Clustering**: Applies K-Means clustering to group comments based on similarity.
-- **Visualization**: Generates bar charts and word clouds for sentiment distribution.
-- **Evaluation**: Computes confusion matrix, accuracy, precision, recall, and F1-score.
+- 🧲 **Data Collection**: Scrapes YouTube comments using YouTube API.
+- 🧹 **Text Preprocessing**: Tokenization, stopword removal, stemming, and TF-IDF vectorization.
+- 😀 **Sentiment Analysis**: Uses TextBlob to classify comments as Positive, Negative, or Neutral.
+- 🧪 **Clustering**: Applies K-Means clustering to group comments based on similarity.
+- 📊 **Visualization**: Generates bar charts and word clouds for sentiment distribution.
+- 🧮 **Evaluation**: Computes confusion matrix, accuracy, precision, recall, and F1-score.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- Python: Main programming language (IPYNB).
-- Libraries: Pandas, NumPy, Scikit-learn, TextBlob, Matplotlib, Seaborn, WordCloud.
-- YouTube API: For scraping YouTube comments.
+- 🐍 Python: Main programming language (IPYNB).
+- 📚 Libraries: Pandas, NumPy, Scikit-learn, TextBlob, Matplotlib, Seaborn, WordCloud.
+- 📺 YouTube API: For scraping YouTube comments.
 
-## Installation
+## ⚙️ Installation
 
 1. Clone this repository:
 
@@ -47,14 +47,14 @@ This project focuses on analyzing social media crises by performing sentiment an
    python main.py
    ```
 
-## Usage
+## 🚀 Usage
 
 1. Provide a YouTube video link for comment scraping.
 2. The program processes and analyzes comments.
 3. Sentiment results and clustering visualizations are displayed.
 4. Evaluation metrics are generated to assess the model's performance.
 
-## Results
+## 📈 Results
 
 Sentiment Distribution: Displays the proportion of positive, negative, and neutral comments.
 
@@ -62,7 +62,7 @@ Clustering Output: Groups comments based on similarity.
 
 Performance Metrics: Accuracy, precision, recall, and F1-score.
 
-## License
+## 🪪 License
 
 &copy; 2025 Ryan Gading Abdullah. All rights reserved.
 
