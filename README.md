@@ -64,6 +64,6 @@ Performance Metrics: Accuracy, precision, recall, and F1-score.
 
 ## 🪪 License
 
-&copy; 2025 Ryan Gading Abdullah. All rights reserved.
+Copyright &copy; 2025 Ryan Gading Abdullah. All rights reserved.
 
 This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) for details.
